@@ -1,5 +1,5 @@
 # SUMU
-This repo hosts the code for paper **"Towards Sequence Utility Maximization under Utility Occupancy Measure"* which was submitted to the ACM TKDD Journal..
+This repo hosts the code for paper **"Towards Sequence Utility Maximization under Utility Occupancy Measure"** which was submitted to the **ACM TKDD** Journal..
 
 ## Requirements
 Java programming language.
